@@ -1,5 +1,10 @@
 # RP2350 PiZero 2-CH CAN HAT
 
+## About
+Dual-channel CAN 2.0B interface for Raspberry Pi RP2350 (PiZero form-factor). Includes firmware examples for both C (Pico SDK) and MicroPython using dual MCP2515 controllers on a shared SPI bus.
+
+**Topics:** `rp2350`, `raspberry-pi-pico`, `can-bus`, `mcp2515`, `pico-sdk`, `micropython`, `embedded-systems`, `can-controller`, `pizero`, `waveshare`, `spi`, `can-transceiver`, `firmware`, `c-programming`, `python-on-hardware`, `hardware-expansion`, `can20b`, `mcu`, `industrial-automation`, `robotics`
+
 Firmware examples (C / Pico SDK and MicroPython) for an RP2350-based "Pi Zero form-factor" board/HAT with **two MCP2515 CAN controllers** on a shared SPI bus.
 
 This repository demonstrates a **bidirectional cross-channel test** between two CAN channels on a single RP2350 board:
