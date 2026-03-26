@@ -27,10 +27,6 @@ This repository demonstrates a **bidirectional cross-channel test** between two 
 |-----------|---------------|---------------|
 | MCU Board | Waveshare RP2350-PiZero or compatible | [Waveshare Store](https://www.waveshare.com/rp2350-pizero.htm) |
 | CAN Expansion | Waveshare 2-CH CAN HAT | [Waveshare Store](https://www.waveshare.com/2-ch-can-hat.htm) |
-| CAN Controller | 2x MCP2515 | - |
-| Crystal Frequency | 8 MHz (default in code) | - |
-| CAN Transceivers | SN65HVD230 or equivalent | - |
-| Logic Level | 3.3V (RP2350 native) | - |
 
 ### Pin Mapping
 
