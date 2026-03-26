@@ -89,7 +89,3 @@ Copy these files to the device:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Credits
-
-- Product images © Waveshare (used with permission).
-- Drivers inspired by various open-source MCP2515 implementations for Arduino and Pico.
