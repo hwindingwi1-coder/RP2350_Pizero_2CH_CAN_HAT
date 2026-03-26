@@ -1,0 +1,19 @@
+# Raspberry Pi Pico SDK build directory
+C demo/build/
+
+# Python / MicroPython
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
